@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto">
-    <NuxtLink to="/category-four">Cuarta categoria</NuxtLink>
+    <NuxtLink to="/category-four">Ir Cuarta categoria</NuxtLink>
   </div>
 </template>
 
